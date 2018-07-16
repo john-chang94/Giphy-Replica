@@ -1,0 +1,27 @@
+.mainBackground {
+    background-color: black;
+}
+
+#title {
+    color: white;
+}
+
+.images {
+    margin: 10px;
+}
+
+.search {
+    width: 430px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.searchButton {
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.searchButton:hover {
+    cursor: pointer;
+}
